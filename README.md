@@ -11,6 +11,12 @@ Este proyecto buscar mostrar nuestro aprendizaje de Python. Hicims uso de ciclos
 
 #¿Cómo ejecutarlo?
 1. instala las siguientes dependencias: pip install requests matplotlib
-2. ejecuta el programa main: python main.py
+2. descarga los archivos y guardalos en una misma carpeta
+3. ejecuta el programa main: python main.py
 
 #Graficas generadas
+grafica1: compara varios asteroides usando sus tamaños y diferenciandolos por sus nombres. Muestra estos datos reflejados en una gráfica de barras
+
+grafica2: compara a los asteroides según se grado de peligro de impacto a la tierra, revisando primero su fecha en la cual fueron registrados. Estos datos son mostrados en una gráfica de pastel
+
+grafica3: relaciona el nombre de los asteroides con su respectiva velocidad y muestra esta diferencia entre asteroides en una gráfica de línea
