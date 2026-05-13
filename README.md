@@ -3,7 +3,7 @@ PIA Programación Básica
 
 #Equipo
 Emanuel Eliud Velasquez Soto - 2215786
-Ángel de Jesús Ramirez Vázquez - 
+Ángel de Jesús Ramirez Vázquez - 2180334
 Fernando Eduardo Galindo Vazquez - 2116125
 
 #¿Qué hace este proyecto?
